@@ -1,6 +1,6 @@
 # Hi, I'm Jaqueline 👋
  
-Estudante de Ciência da Computação, atuando como estagiária Full Stack e Análise de Dados na Cadari Engenharia.
+Computer Science student, working as a Full Stack & Data Analysis intern at Cadari Engenharia.
  
 ## What I'm Doing
  
